@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  
+  
+  <link href="/glog/atom.xml" rel="self"/>
+  
+  <link href="https://puke100.github.io/glog/"/>
+  <updated>2019-08-21T03:00:33.768Z</updated>
+  <id>https://puke100.github.io/glog/</id>
+  
+  <author>
+    <name>大</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>this is a test </title>
+    <link href="https://puke100.github.io/glog/2019/08/21/this-is-a-test/"/>
+    <id>https://puke100.github.io/glog/2019/08/21/this-is-a-test/</id>
+    <published>2019-08-21T03:00:33.000Z</published>
+    <updated>2019-08-21T03:00:33.768Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/2019/08/21/cc3d73a0-c3bf-11e9-be19-d3ae57e0aa46.png" alt="3369.png"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/2019/08/21/cc3d73a0-c3bf-11e9-be19-d3ae57e0aa46.png&quot; alt=&quot;3369.png&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="测试" scheme="https://puke100.github.io/glog/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="图片" scheme="https://puke100.github.io/glog/tags/%E5%9B%BE%E7%89%87/"/>
+    
+  </entry>
+  
+</feed>
